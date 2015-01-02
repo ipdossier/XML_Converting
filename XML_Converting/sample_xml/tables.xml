@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with XMLSpear -->
+<tables id="TABLE-US-00002" num="00002">
+	<table colsep="0" frame="none" rowsep="0">
+		<tgroup align="left" cols="1" colsep="0" rowsep="0">
+			<colspec align="center" colname="1" colwidth="217pt"/>
+			<thead>
+				<row>
+					<entry nameend="1" namest="1" rowsep="1">TABLE 2</entry>
+				</row>
+			</thead>
+			<tbody valign="top">
+				<row>
+					<entry align="center" nameend="1" namest="1" rowsep="1"/>
+				</row>
+				<row>
+					<entry>Clinical Observations</entry>
+				</row>
+			</tbody>
+		</tgroup>
+		<tgroup align="left" cols="4" colsep="0" rowsep="0">
+			<colspec align="left" colname="offset" colwidth="98pt"/>
+			<colspec align="center" colname="1" colwidth="42pt"/>
+			<colspec align="center" colname="2" colwidth="28pt"/>
+			<colspec align="center" colname="3" colwidth="49pt"/>
+			<tbody valign="top">
+				<row>
+					<entry/>
+					<entry/>
+					<entry/>
+					<entry>ALM as % of</entry>
+				</row>
+				<row>
+					<entry/>
+					<entry>Standard</entry>
+					<entry>ALM</entry>
+					<entry>standard</entry>
+				</row>
+				<row>
+					<entry/>
+					<entry align="center" nameend="3" namest="offset" rowsep="1"/>
+				</row>
+			</tbody>
+		</tgroup>
+		<tgroup align="left" cols="4" colsep="0" rowsep="0">
+			<colspec align="left" colname="1" colwidth="98pt"/>
+			<colspec align="char" char="." colname="2" colwidth="42pt"/>
+			<colspec align="char" char="." colname="3" colwidth="28pt"/>
+			<colspec align="char" char="." colname="4" colwidth="49pt"/>
+			<tbody valign="top">
+				<row>
+					<entry>Intra-operative inotropes (%)</entry>
+					<entry>93%</entry>
+					<entry>13%</entry>
+					<entry>(14%)</entry>
+				</row>
+				<row>
+					<entry>Intra-operative pacing (%)</entry>
+					<entry>86%</entry>
+					<entry>33%</entry>
+					<entry>(38%)</entry>
+				</row>
+				<row>
+					<entry>Intra-operative transfusions(%)</entry>
+					<entry>43%</entry>
+					<entry>24%</entry>
+					<entry>(56%)</entry>
+				</row>
+				<row>
+					<entry>Length of Stay post-op (days)</entry>
+					<entry>7</entry>
+					<entry>6</entry>
+					<entry>(79%)</entry>
+				</row>
+				<row>
+					<entry>Post-op atrial fib. (%)</entry>
+					<entry>34%</entry>
+					<entry>3%</entry>
+					<entry>(9%)</entry>
+				</row>
+				<row>
+					<entry align="center" nameend="4" namest="1" rowsep="1"/>
+				</row>
+			</tbody>
+		</tgroup>
+	</table>
+</tables>

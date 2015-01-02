@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <description id="description">
+    <?summary-of-invention description="Summary of Invention" end="lead"?>
+    <heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+    <p id="p-0002" num="0001">The invention relates to protecting and preserving tissue following disruptions to normal metabolite flow, such as may occur to the heart during cardioplegia. The invention also relates to a method for improving post-operative patient recovery following surgery. In particular, it has particular application to minimising post-operative complications following cardiac surgery, particularly following cardioplegia applied directly to the heart rather than systemically.</p>
+    <heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+    <p id="p-0003" num="0002">Of the million elective open-heart surgeries performed globally each year, 1 to 3% of patients will die in the recovery room, 10% will leave the hospital with left ventricular dysfunction, up to 30% will experience atrial arrhythmias, and 24% of high risk patients will die within 3 years. Moreover, recent prospective studies have shown that patients with a slightly elevated post-operative creatine kinase (CK-MB) levels in their blood have significantly higher risk of early (first year) and late (3 to 5 years) morbidity and mortality. Perioperative and post-operative mortality and morbidity are related to iatrogenic ischemia-reperfusion injury during cardiac surgery, and to inadequate myocardial protection. In addition, in paediatric cardiac surgery more than 50% of infants have perioperative myocardial damage with a low cardiac output. For over two decades, a significant part of the iatrogenic injury has been linked to the type, composition and delivery of cardioplegia.</p>
+    <p id="p-0004" num="0003">In 2000, about 64% of open-heart surgery operations performed were coronary artery bypass graft procedures, 24% were heart valve replacement or repair procedures, and about 12% were related to the repair of congenital heart defects. About 1.2% were neonatal/paediatric. The majority of open heart surgery operations (over 80%) require cardiopulmonary bypass and elective heart arrest using either a blood or crystalloid cardioplegia solution. During these procedures the heart may be arrested for 3 hours, but sometimes up to 4 to 6 hours. The amount of damage to the heart caused by 3-4 hours is such that the heart is increasingly less likely to recover function, and more likely than not recover after 4 hours arrest.</p>
+    <p id="p-0005" num="0004">Cardioplegic compositions have been used to arrest or quieten the heart during surgery. Cardioplegic drugs are usually partially diluted and mixed with a carrier (e.g. ratio 4 blood:1 crystalloid), or used as a crystalloid alone. A small proportion of procedures are performed under what is called &#x201c;miniplegia&#x201d; or &#x201c;microplegia&#x201d; in which small amounts of the cardioplegic solution/drugs are mixed with large volumes of blood (e.g. ratio 66 blood:1 crystalloid). Miniplegia is delivered directly to the tissue of interest (eg the heart) rather than the larger amounts required to be delivered systemically. The objective has been to arrest the heart and create a &#x201c;motionless, bloodless field&#x201d; for the surgeon to operate and minimise damage to the tissue during the procedure (including the potentially substantial damage which can occur during reperfusion when the cardioplegia is removed and the heart reanimates). Dr. Melrose, in 1955, utilized the patient's own blood as the vehicle to administer potassium citrate into the aorta to arrest a heart. In 1976, Dr. Hearse described administering crystalloid cardioplegia. A few years later Buckberg and colleagues suggested using a patient's own blood as the major carrier because blood has an oxygen-carrying capacity, superior oncotic and buffering properties, and endogenous antioxidants. Whole blood cardioplegia has also been modified using larger volumes of blood and smaller titrations of potassium, hence the name &#x201c;miniplegia&#x201d;. The term &#x201c;Miniplegia&#x201d; was coined by Menasche and colleagues in the early 1990s. Miniplegia (or Microplegia) provided oxygen-rich blood coupled with micro titrations of arrest and additives to achieve a quiescence of the heart and reduce ischemia-reperfusion injury.</p>
+    <p id="p-0006" num="0005">Ischemic injury to a large extent is dependent upon the duration of the ischemic event, whether global or regional in nature. With ischemia being defined as the mismatch between oxygen supply (coronary blood flow and oxygen carrying capacity) and oxygen demand (determined by the wall stress, heart rate and contractility or inotropic state of the heart), the severity of ischemia is an important factor determining subsequent injury. The severity of ischemia can be offset, and even neutralized, by increased collateral blood flow. The basic premise of &#x201c;miniplegia&#x201d; is to minimize ischemia and therefore injury.</p>
+    <p id="p-0007" num="0006">By definition, maintenance of cardiac aerobic metabolism during arrest requires oxygen supply to match oxygen demand. Consequently, where the oxygen demand has been drastically reduced by over 90% during adequate cardioplegic induction and maintenance of asystole, for the heart to maintain aerobic metabolism a number of factors or modalities must be met. These modalities can be summarized as follows: (i) oxygen must be present in sufficient quantities to match demand, and there is now convincing evidence that hematocrit should be at least equal to 24%; (ii) oxygen must be delivered at a sufficient flow rate to match demand; (iii) oxygen should be delivered in as near a continuous fashion as possible, without restricting surgeon's view, because it is consumed over time (no matter what the &#x201c;safe&#x201d; ischemic interval is in experimental models, it is virtually impossible to predict, in a given patient, the time point beyond which myocardial metabolism is going to shift from aerobic to anaerobic patterns as well as the extent and reversibility of tissue damage that may occur beyond this cut-off time mark); and (iv) oxygen must be delivered as uniformly as possible throughout the myocardium. When tight stenosis and furthermore, complete occlusions of the coronary arteries are present, there is now a convincing body of evidence that retrograde or, even better, a combined retrograde/antegrade approach are more effective in ensuring homogeneous distribution of cardioplegia than the antegrade route administration alone.</p>
+    <p id="p-0008" num="0007">While early reperfusion, or restoration of the blood flow, remains the most effective means of salvaging the myocardium from acute ischaemia, the sudden influx of oxygen paradoxically may lead to necrosis, arrhythmias and death. The extent of &#x201c;reperfusion injury&#x201d; has been linked to a cascade of inflammatory reactions including the generation of cytokines, leukocytes, reactive oxygen species and free radicals. Reperfusion of ischaemic myocardium is necessary to salvage tissue from eventual death. However, reperfusion after even brief periods of ischaemia is associated with pathologic changes that represent either an acceleration of processes initiated during ischaemia per se, or new pathophysiological changes that were initiated after reperfusion. The degree and extent of reperfusion injury can be influenced by inflammatory responses in the myocardium. Ischaemia-reperfusion prompts a release of oxygen free radicals, cytokines and other pro-inflammatory mediators that activate both the neutrophils and the coronary vascular endothelium. The inflammatory process can lead to endothelial dysfunction, microvascular collapse and blood flow defects, myocardial infarction and apoptosis. Pharmacologic anti-inflammatory therapies targeting specific steps have been shown to decrease infarct size and myocardial injury.</p>
+    <p id="p-0009" num="0008">Hypothermia has been an essential component of myocardial protection since the very beginning. The focus has always been on reducing metabolism to the lowest possible level during ischemic interval so that myocardial energy stores (adenosine tri-phosphate and glycogen) are maintained and tissue acidosis is avoided during this ischemic episode. However, many investigators have found that the level of myocardial recovery after crystalloid cardioplegia utilizing 10&#xb0; C. or 25&#xb0; C. was not significantly different. Until recently the major focus of myocardial protection has been that of preserving myocyte contractility to prevent pump failure which includes conserving cell energy by reducing metabolism to a low level which allows continued support of vital cell activities such as ion pumping to maintain internal milieu. Not only is there much interest in the current techniques involving cardiac and systemic temperature during cardioplegia, but also in the effect of cardioplegia on the endothelium and microvascular compartments. Thus, endothelium preservation may be as important as myocyte preservation.</p>
+    <p id="p-0010" num="0009">Current techniques still result in a substantial number of patients suffering atrial fibrillation post-operatively. Patients typically require several days in intensive care following the operation, and take some time to return to lucidity and mobility. These reflect the damage, some of which is reversible, that results from current procedures and the need for improved techniques.</p>
+    <heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+    <p id="p-0011" num="0010">The invention is directed to reducing tissue, organ and cell damage resulting from periods of reduced activity, ie quiescence of cells, whether resulting from medical intervention or otherwise. Typically, it has application where cells are deliberately quietened for surgical purposes, such as induced cardiac arrest for cardiac surgery. The invention is described in this specification primarily with reference to the heart as an organ for which there is a critical commercial need for improved tissue maintenance. Medical intervention includes cardioplegia, ie medically induced arrest of the heart. However, the invention is not limited to cardiac tissue and is equally applicable and useful for other organs, including neuronal tissue and cells, renal tissue, lung tissue, muscle tissue etc. The invention also has application to protect an organ following non-medically induced periods of reduced activity, eg. trauma, shock, heart attack, stroke and like events.</p>
+    <p id="p-0012" num="0011">The term &#x201c;organ&#x201d; is used herein in its broadest sense and refers to any part of the body exercising a specific function including tissues and cells or parts thereof, for example, cell lines or organelle preparations. Other examples include circulatory organs such as the heart, respiratory organs such as the lungs, urinary organs such as the kidneys or bladder, digestive organs such as the stomach, liver, pancreas or spleen, reproductive organs such as the scrotum, testis, ovaries or uterus, neurological organs such as the brain, germ cells such as spermatozoa or ovum and somatic cells such as skin cells, heart cells i.e., myocytes, nerve cells, brain cells or kidney cells.</p>
+    <p id="p-0013" num="0012">The term &#x201c;tissue&#x201d; is used herein in its broadest sense and refers to any part of the body exercising a specific function including organs and cells or parts thereof, for example, cell lines or organelle preparations. Other examples include conduit vessels such as arteries or veins or circulatory organs such as the heart, respiratory organs such as the lungs, urinary organs such as the kidneys or bladder, digestive organs such as the stomach, liver, pancreas or spleen, reproductive organs such as the scrotum, testis, ovaries or uterus, neurological organs such as the brain, germ cells such as spermatozoa or ovum and somatic cells such as skin cells, heart cells (ie, myocytes), nerve cells, brain cells or kidney cells.</p>
+    <p id="p-0014" num="0013">It will be understood that the term &#x201c;comprises&#x201d; or its grammatical variants as used in this specification and claims is equivalent to the term &#x201c;includes&#x201d; and is not to be taken as excluding the presence of other elements or features.</p>
+    <?summary-of-invention description="Summary of Invention" end="tail"?>
+    <?detailed-description description="Detailed Description" end="lead"?>
+    <p id="p-0015" num="0014">In one embodiment, the invention provides a method of reducing damage to a tissue, organ or cell from medically induced reduced activity (eg to facilitate surgical procedures), which consequently reduces risk or incidence of post-operative complications (such as atrial fibrillation after heart surgery). The method comprises administering a composition comprising a potassium channel opener/agonist and/or an adenosine receptor agonist (eg. adenosine) together with a local anaesthetic (eg. lignocaine) when reperfusing the organ. Preferably, a potassium channel opener/agonist or an adenosine receptor agonist is used.</p>
+    <p id="p-0016" num="0015">In a preferred form, the composition is administered directly to the tissue, organ or cell. In another embodiment, the composition is administered substantially continuously (rather than as a bolus). In this context, &#x201c;substantially continuously&#x201d; permits minor interruptions to the administration.</p>
+    <p id="p-0017" num="0016">Accordingly, in another embodiment, the invention provides a composition for reducing damage to tissue(s) and/or organ(s) comprising a potassium channel opener/agonist and/or an adenosine receptor agonist together with a local anaesthetic. The composition may further include other components as identified below. In some embodiments, the potassium channel opener/agonist and adenosine receptor agonist is replaced by another component such as a calcium channel agonist.</p>
+    <p id="p-0018" num="0017">The invention also provides use of a composition comprising a potassium channel opener/agonist and/or an adenosine receptor agonist together with a local anaesthetic in the manufacture of a medicament for reducing damage to tissue(s) and/or organ(s), in particular for reducing post-operative atrial fibrillation after heart surgery.</p>
+    <p id="p-0019" num="0018">In one embodiment, the organ is a heart. In this embodiment, the composition may be administered at about the time the cross-clamp is removed. The composition may also be administered during the procedure once the heart has been arrested, ie the cardioplegic composition has been administered.</p>
+    <p id="p-0020" num="0019">Preferably, the composition includes magnesium cations. Magnesium sulphate is a suitable source for these.</p>
+    <p id="p-0021" num="0020">Preferably, the composition is between 0&#xb0; and 37&#xb0; C. for administration. In some embodiments, temperatures of between about 4&#xb0; and 15&#xb0; C. are appropriate. In other embodiments, the composition is heated to between 20&#xb0; and 37&#xb0; C. before administration.</p>
+    <p id="p-0022" num="0021">The invention also provides a method wherein the composition is administered when reperfusing the organ and/or wherein the composition is administered while perfusing the organ during a quiescent state. This is often called the &#x201c;maintenance&#x201d; phase of a surgical procedure.</p>
+    <p id="p-0023" num="0022">In another embodiment, the composition is administered prior to the administration of the cardioplegia as a &#x201c;preconditioning&#x201d; step. The preconditioning may be effected by administration of the composition directly to the organ which is the subject of the procedure, or systemically to the subject. The preconditioning step has been observed to have a protective effect.</p>
+    <p id="p-0024" num="0023">Accordingly, in one preferred form of the invention, a composition of the type described above is administered pre-induction of arrest, during maintenance and as part of the recovery phase of a surgical procedure.</p>
+    <p id="p-0025" num="0024">In one embodiment, the invention provides a method of reducing post-operative fibrillation following a heart procedure comprising administering a composition comprising a potassium channel opener/agonist and/or an adenosine receptor agonist, together with a local anaesthetic. Preferably, the composition is administered during the recovery phase of the procedure.</p>
+    <p id="p-0026" num="0025">The invention also provides use of a composition (especially in the preferred embodiments described below) for the methods described above. This uses of the composition extend to many therapeutic applications, including without limitation, cardiovascular diagnosis (including coronary angiography, myocardial scintigraphy, non-invasive diagnosis of dual AV nodal conduction), use in treatment of heart attack, resuscitation therapy, short-term and long-term storage of organs tissues or cells (including graft vessels), use before, prior to, during or following open-heart surgery, angioplasty and other therapeutic interventions.</p>
+    <p id="p-0027" num="0026">In one embodiment, the composition comprises adenosine and lignocaine. In particular, the composition may include adenosine and lignocaine in the weight ratio of about 1:0.5 to 4, in particular 1:2.</p>
+    <p id="p-0028" num="0027">Without being bound by any theory or mode of action, protection is thought to involve a multi-tiered system from modulating membrane excitability to a multitude of intracellular signalling pathways leading to (i) reduced ion imbalances, in particular sodium and calcium ion loading in the cells, (ii) improved atrial and ventricular matching of electrical conduction to metabolic demand, which may involve modulation of gap junction communication, (iii) vasodilation of coronary arteries and (ii) attenuation of the inflammatory response to injury</p>
+    <p id="p-0029" num="0028">Infusion of the composition during pre-treatment and ischaemia and reperfusion provides continuous protection from ischaemic tissue injury including protection from lethal arrhythmias. The protection from localised injury and inflammation can also be obtained when placing a stent into a vessel such as during angioplasty.</p>
+    <p id="p-0030" num="0029">Local anaesthetic agents are drugs which are used to produce reversible loss of sensation in an area of the body. Many local anaesthetic agents consist of an aromatic ring linked by a carbonyl containing moiety through a carbon chain to a substituted amino group. In general there are 2 classes of local anaesthetics defined by their carbonyl-containing linkage group. The ester agents include cocaine, amethocaine, procaine and chloroprocaine, whereas the amides include prilocaine, mepivacaine, bupivacaine, mexiletine and lignocaine. At high concentrations, many drugs that are used for other purposes possess local anaesthetic properties. These include opioid analgesics, Beta-adrenoceptor antagonists, anticonvulsants (lamotrigine and lifarizine) and antihistamines. The local anaesthetic component of the composition according to the present invention may be selected from these classes, or derivatives thereof, or from drugs than may be used for other purposes. Preferably, the component possesses local anaesthetic properties also.</p>
+    <p id="p-0031" num="0030">A suitable local anaesthetic is Lignocaine. In this specification Lignocaine and Lidocaine are used interchangeably. Lignocaine is preferred as it is capable of acting as a local anaesthetic probably by blocking sodium fast channels, depressing metabolic function, lowering free cytosolic calcium, protecting against enzyme release from cells, possibly protecting endothelial cells and protecting against myofilament damage. At lower therapeutic concentrations lignocaine normally has little effect on atrial tissue, and therefore is ineffective in treating atrial fibrillation, atrial flutter, and supraventricular tachycardias. Lignocaine is also a free radical scavenger, an antiarrhythmic and has anti-inflammatory and anti-hypercoagulable properties. It must also be appreciated that at non-anaesthetic therapeutic concentrations, local anaesthetics like lignocaine may not completely block the voltage-dependent sodium fast channels, but down-regulate channel activity and reduce sodium entry. As an anti-arrhythmic, lignocaine is believed to target small sodium currents that normally continue through phase 2 of the action potential and consequently shortens the action potential and the refractory period.</p>
+    <p id="p-0032" num="0031">Lignocaine is a local anaesthetic which is believed to block sodium fast channels and has anti-arrhythmatic properties by reducing the magnitude of inward sodium current. In this specification, the terms &#x201c;lidocaine&#x201d; and &#x201c;lignocaine&#x201d; are used interchangeably. The accompanying shortening of the action potential is thought to directly reduce calcium entry into the cell via Ca<sup>2+</sup> selective channels and Na<sup>+</sup>/Ca<sup>2+</sup> exchange. Recent reports also implicate lignocaine with the scavenging of free radicals such as hydroxyl and singlet oxygen in the heart during reperfusion. Examples of other suitable sodium channel blockers include venoms such as tetrodotoxin, and the drugs primaquine, QX, HNS-32 (CAS Registry #186086-10-2), NS-7, kappa-opioid receptor agonist U50 488, crobenetine, pilsicainide, phenytoin, tocainide, mexiletine, RS100642, riluzole, carbamazepine, flecainide, propafenone, amiodarone, sotalol, imipramine and moricizine, or any of derivatives thereof. Other suitable sodium channel blockers include: Vinpocetine (ethyl apovincaminate); and Beta-carboline derivative, nootropic beta-carboline (ambocarb, AMB).</p>
+    <p id="p-0033" num="0032">The composition according to the invention includes a potassium channel opener. Potassium channel openers are agents which act on potassium channels to open them through a gating mechanism. This results in efflux of potassium across the membrane along its electrochemical gradient which is usually from inside to outside of the cell. Thus potassium channels are targets for the actions of transmitters, hormones, or drugs that modulate cellular function. It will be appreciated that the potassium channel openers include the potassium channel agonists which also stimulate the activity of the potassium channel with the same result. It will also be appreciated that there are diverse classes of compounds which open or modulate different potassium channels; for example, some channels are voltage dependent, some rectifier potassium channels are sensitive to ATP depletion, adenosine and opioids, others are activated by fatty acids, and other channels are modulated by ions such as sodium and calcium (ie. channels which respond to changes in cellular sodium and calcium). More recently, two pore potassium channels have been discovered and thought to function as background channels involved in the modulation of the resting membrane potential.</p>
+    <p id="p-0034" num="0033">Potassium channel openers may be selected from the group consisting of: nicorandil, diazoxide, minoxidil, pinacidil, aprikalim, cromokulim and derivative U-89232, P-1075 (a selective plasma membrane KATP channel opener), emakalim, YM-934, (+)-7,8-dihydro-6, 6-dimethyl-7-hydroxy-8-(2-oxo-1-piperidinyl)-6H-pyrano[2,3-f] benz-2,1, 3-oxadiazole (NIP-121), RO316930, RWJ29009, SDZPCO400, rimakalim, symakalim, YM099, 2-(7,8-dihydro-6,6-dimethyl-6H[1,4]oxazino[2,3-f][2,1,3]benzoxadiazol-8-yl) pyridine N-oxide, 9-(3-cyanophenyl)-3,4,6,7,9,10-hexahydro-1,8-(2H,5H)-acridinedione (ZM244085), [(9R)-9-(4-fluoro-3-125iodophenyl)-2,3,5,9-tetrahydro-4H-pyrano[3,4-b]thieno[2,3-e]pyridin-8(7H)-one-1,1-dioxide] ([125I]A-312110), (&#x2212;)-N-(2-ethoxyphenyl)-N&#x2032;-(1,2,3-trimethylpropyl)-2-nitroethene-1,1-diamine (Bay X 9228), N-(4-benzoyl phenyl)-3,3,3-trifluro-2-hydroxy-2-methylpropionamine (ZD6169), ZD6169 (KATP opener) and ZD0947 (KATP opener), WAY-133537 and a novel dihydropyridine potassium channel opener, A-278637. In addition, potassium channel openers can be selected from BK-activators (also called BK-openers or BK(Ca)-type potassium channel openers or large-conductance calcium-activated potassium channel openers) such as benzimidazolone derivatives NS004 (5-trifluoromethyl-1-(5-chloro-2-hydroxyphenyl)-1,3-dihydro-2H-benzimidazole-2-one), NS1619 (1,3-dihydro-1-[2-hydroxy-5-(trifluoromethyl)phenyl]-5-(trifluoromethyl)-2H-benzimidazol-2-one), NS1608 (N-(3-(trifluoromethyl)phenyl)-N&#x2032;-(2-hydroxy-5-chlorophenyl)urea), BMS-204352, retigabine (also GABA agonist). There are also intermediate (eg. benzoxazoles, chlorzoxazone and zoxazolamine) and small-conductance calcium-activated potassium channel openers.</p>
+    <p id="p-0035" num="0034">In addition, potassium channel openers may act as indirect calcium antagonists, ie they act to reduce calcium entry into the cell by shortening the cardiac action potential duration through the acceleration of phase 3 repolarisation, and thus shorten the plateau phase. Reduced calcium entry is thought to involve L-type calcium channels, but other calcium channels may also be involved.</p>
+    <p id="p-0036" num="0035">Some embodiments of the invention utilise direct calcium antagonists, the principal action of which is to reduce calcium entry into the cell. These are selected from at least five major classes of calcium channel blockers as explained in more detail below. It will be appreciated that these calcium antagonists share some effects with potassium channel openers, particularly ATP-sensitive potassium channel openers, by inhibiting calcium entry into the cell.</p>
+    <p id="p-0037" num="0036">Adenosine is particularly preferred as the potassium channel opener or agonist. Adenosine is capable of opening the potassium channel, hyperpolarising the cell, depressing metabolic function, possibly protecting endothelial cells, enhancing preconditioning of tissue and protecting from ischaemia or damage. Adenosine's actions are complex as the drug has many broad-spectrum properties. Adenosine has been shown to increase coronary blood flow, hyperpolarise the cell membrane, and protect during ischemia and reperfusion. Adenosine also acts as a &#x2018;early&#x2019; and &#x2018;delayed&#x2019; preconditioning &#x2018;trigger&#x2019; or agent to protect the heart against ischaemic injury. Part of adenosine's cardioprotective properties are believed to be activation of one or more of the adenosine receptor subtypes (A1, A2a, A2b and A3). Much of adenosine's protection has been ascribed to A1 and A3 receptor activation and their associated transduction pathways leading to preconditioning, protection and preservation of cell integrity. It is also known that adenosine, by activating A1 receptors, is involved in slowing the sinoatrial nodal pacemaker rate (negative chronotropy), delaying atrioventricular (A-V) nodal impulse conduction (negative dromotropy), reduces atrial contractility (negative inotropy), and inhibits the effect of catecholamines (anti-adrenergic effect). The A1-stimulated negative chronotropic, dromotropic and inotropic effects of adenosine are linked to the drug's action to reduce the activity of adenyl cyclase, to activate the inward rectifier potassium current (I<sub>K-Ado</sub>), inhibition of phospholipid turnover, activation of ATP-sensitive K channels, inhibits effect of catecholamines on the L-type Ca<sup>2+</sup> current and activation of nitric oxide synthase in AV nodal cells. A3 receptors have also shown to have direct cardioprotective effects, and A2 receptors have potent vasodilatory and anti-inflammatory actions in response to injury. Adenosine is also an indirect calcium antagonist, vasodilator, antiarrhythmic, antiadrenergic, free radical scavenger, arresting agent, anti-inflammatory agent (attenuates neutrophil activation), analgesic, metabolic agent and possible nitric oxide donor.</p>
+    <p id="p-0038" num="0037">It will be appreciated that anti-adrenergics such as beta-blockers, for example, esmolol, atenolol, metoprolol and propranolol could be used instead of or in combination with the potassium channel opener to reduce calcium entry into the cell. Preferably, the beta-blocker is esmolol. Similarly, alpha(1)-adrenoceptor-antagonists such as prazosin, could be used instead of or in combination with the potassium channel opener to reduce calcium entry into the cell and therefore calcium loading.</p>
+    <p id="p-0039" num="0038">In one aspect of the invention there is provided a composition for preconditioning, protecting and/or reducing damage to tissues during ischemia or reperfusion comprising delivery of an effective amount of:
+      <ul id="ul0001" list-style="none">
+        <li id="ul0001-0001" num="0000">
+          <ul id="ul0002" list-style="none">
+            <li id="ul0002-0001" num="0039">an antiadrenergic; and</li>
+            <li id="ul0002-0002" num="0040">a local anaesthetic.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0040" num="0041">According to this aspect of the present invention there is also provided a composition including an effective amount of an antiadrenergic and a local anaesthetic.</p>
+    <p id="p-0041" num="0042">Preferably, the antiadrenergic is a beta-blocker. Preferably the beta-blocker is esmolol.</p>
+    <p id="p-0042" num="0043">Adenosine is also known to indirectly inhibit the sodium-calcium exchanger which would reduce cell sodium and calcium loading. It will be appreciated that inhibitors of the sodium-calcium exchanger would lead to reduced calcium entry and magnify the effect of adenosine. Na<sup>+</sup>/Ca<sup>2+</sup> exchange inhibitors may include benzamyl, KB-R7943 (2-[4-(4-Nitrobenzyloxy)phenyl]ethyl]isothiourea mesylate) or SEA0400 (2-[4-[(2,5-difluorophenyl)methoxy]phenoxy]-5-ethoxyaniline).</p>
+    <p id="p-0043" num="0044">Since one of adenosine's properties is to reduce calcium entry and sodium entry in the heart and coronary vascular cells, it will be further appreciated that a compound leading to reduced calcium and sodium entry (or reduce calcium oscillations in the cell) before, during and/or following treatment could be used instead of or in combination with adenosine to reduce calcium entry into the cell. Such compounds may be selected from calcium channel blockers from three different classes: 1,4-dihydropyridines (eg. nitrendipine), phenylalkylamines (eg. verapamil), and the benzothiazepines (e.g. diltiazem, nifedipine).</p>
+    <p id="p-0044" num="0045">Calcium channel blockers are also called calcium antagonists or calcium blockers. They are often used clinically to decrease heart rate and contractility and relax blood vessels. They may be used to treat high blood pressure, angina or discomfort caused by ischaemia and some arrhythmias, and they share many effects with beta-blockers (see discussion above).</p>
+    <p id="p-0045" num="0046">Five major classes of calcium channel blockers are known with diverse chemical structures: 1. Benzothiazepines: eg Diltiazem, 2. Dihydropyridines: eg nifedipine, Nicardipine, nimodipine and many others, 3. Phenylalkylamines: eg Verapamil, 4. Diarylaminopropylamine ethers: eg Bepridil, 5. Benzimidazole-substituted tetralines: eg Mibefradil.</p>
+    <p id="p-0046" num="0047">The traditional calcium channel blockers bind to L-type calcium channels (&#x201c;slow channels&#x201d;) which are abundant in cardiac and smooth muscle which helps explain why these drugs have selective effects on the cardiovascular system. Different classes of L-type calcium channel blockers bind to different sites on the alpha1-subunit, the major channel-forming subunit (alpha2, beta, gamma, delta subunits are also present). Different sub-classes of L-type channel are present which may contribute to tissue selectivity. More recently, novel calcium channel blockers with different specificities have also been developed for example, Bepridil, is a drug with Na+ and K+ channel blocking activities in addition to L-type calcium channel blocking activities. Another example is Mibefradil, which has T-type calcium channel blocking activity as well as L-type calcium channel blocking activity.</p>
+    <p id="p-0047" num="0048">Three common calcium channel blockers are diltiazem (Cardizem), verapamil (Calan) and Nifedipine (Procardia). Nifedipine and related dihydropyridines do not have significant direct effects on the atrioventricular conduction system or sinoatrial node at normal doses, and therefore do not have direct effects on conduction or automaticity. While other calcium channel blockers do have negative chronotropic/dromotropic effects (pacemaker activity/conduction velocity). For example, Verapamil (and to a lesser extent diltiazem) decreases the rate of recovery of the slow channel in AV conduction system and SA node, and therefore act directly to depress SA node pacemaker activity and slow conduction. These two drugs are frequency- and voltage-dependent, making them more effective in cells that are rapidly depolarizing. Verapamil is also contraindicated in combination with beta-blockers due to the possibility of AV block or severe depression of ventricular function. In addition, mibefradil has negative chronotropic and dromotropic effects. Calcium channel blockers (especially verapamil) may also be particularly effective in treating unstable angina if underlying mechanism involves vasospasm.</p>
+    <p id="p-0048" num="0049">Omega conotoxin MVIIA (SNX-111) is an N type calcium channel blocker and is reported to be 100-1000 fold more potent than morphine as an analgesic but is not addictive. This conotoxin is being investigated to treat intractible pain. SNX-482 a further toxin from the venom of a carnivorous spider venom, blocks R-type calcium channels. The compound is isolated from the venom of the African tarantula, <i>Hysterocrates gigas, </i>and is the first R-type calcium channel blocker described. The R-type calcium channel is believed to play a role in the body's natural communication network where it contributes to the regulation of brain function. Other Calcium channel blockers from animal kingdom include Kurtoxin from South African Scorpion; SNX-482 from African Tarantula, Taicatoxin from the Australian Taipan snake, Agatoxin from the Funnel Web Spider, Atracotoxin from the Blue Mountains Funnel Web Spider, Conotoxin from the Marine Snail, HWTX-I from the Chinese bird spider, Grammotoxin SIA from the South American Rose Tarantula. This list also includes derivatives of these toxins that have a calcium antagonistic effect.</p>
+    <p id="p-0049" num="0050">Direct ATP-sensitive potassium channel openers (eg nicorandil, aprikalem) or indirect ATP-sensitive potassium channel openers (eg adenosine, opioids) are also indirect calcium antagonists and reduce calcium entry into the tissue. One mechanism believed for ATP-sensitive potassium channel openers also acting as calcium antagonists is shortening of the cardiac action potential duration by accelerating phase 3 repolarisation and thus shortening the plateau phase. During the plateau phase the net influx of calcium may be balanced by the efflux of potassium through potassium channels. The enhanced phase 3 repolarisation may inhibit calcium entry into the cell by blocking or inhibiting L-type calcium channels and prevent calcium (and sodium) overload in the tissue cell.</p>
+    <p id="p-0050" num="0051">Potential uses for the combinational therapy include cardioplegia, management of ischaemic syndromes without or without clot-busters, cardiac surgery (on and off-pump), arrhythmia management, coronary interventions (balloon and stent), preconditioning an organ, tissue or cell to ischaemic stress, longer-term organ or cell preservation, peri-and post-operative pain management, peri- and post operative anti-inflammatory treatments, peri- and post operative anti-clotting strategies, resuscitation therapies, cardiovascular diagnosis and other related therapeutic interventions. One potential use for the anti-clotting strategy may be in the treatment of deep vein thrombosis and similar disorders and complications associated with surgery such as vascular, hip, cardiac and general surgery.</p>
+    <p id="p-0051" num="0052">Calcium channel blockers can be selected from nifedipine, nicardipine, nimodipine, nisoldipine, lercanidipine, telodipine, angizem, altiazem, bepridil, amlodipine, felodipine, isradipine and cavero and other racemic variations. In addition, it will be appreciated that calcium entry could be inhibited by other calcium blockers which could be used instead of or in combination with adenosine and include a number of venoms from marine or terrestrial animals such as the omega-conotoxin GVIA (from the snail <i>conus geographus</i>) which selectively blocks the N-type calcium channel or omega-agatoxin IIIA and IVA from the funnel web spider <i>Agelelnopsis aperta </i>which selectively blocks R- and P/Q-type calcium channels respectively. There are also mixed voltage-gated calcium and sodium channel blockers such as NS-7. to reduce calcium and sodium entry and thereby assist cardioprotection.</p>
+    <p id="p-0052" num="0053">It will be appreciated that a calcium channel blocker could be used instead of or in combination with the a local anaesthetic.</p>
+    <p id="p-0053" num="0054">Thus, in another aspect of the invention there is provided a composition for preconditioning, protecting and/or reducing damage to a tissue during ischemia or reperfusion comprising delivery of an effective amount of:
+      <ul id="ul0003" list-style="none">
+        <li id="ul0003-0001" num="0000">
+          <ul id="ul0004" list-style="none">
+            <li id="ul0004-0001" num="0055">a calcium channel blocker; and</li>
+            <li id="ul0004-0002" num="0056">potassium channel opener or adenosine receptor agonist.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0054" num="0057">According to this aspect of the invention there is also provided a composition including an effective amount of a calcium channel blocker and a local anaesthetic. Preferably the calcium channel blocker is nifedipine.</p>
+    <p id="p-0055" num="0058">In another embodiment, the composition according to the invention further includes an additional potassium channel opener. Preferably the additional potassium channel opener is diazoxide. Diazoxide is believed to preserve ion and volume regulation, oxidative phosphorylation and mitochondrial membrane integrity (appears concentration dependent). Diazoxide also affords cardioprotection by reducing mitochondrial oxidant stress at reoxygenation. There is also some evidence that the protective effects of potassium channel openers are associated with modulation of reactive oxygen species generation in mitochondria.</p>
+    <p id="p-0056" num="0059">The composition according to the invention includes an adenosine receptor agonist. It will be appreciated that the adenosine receptor agonists include compounds which act both directly and indirectly on the receptor resulting in activation of the receptor, or mimic the action of the receptor having the same net effect.</p>
+    <p id="p-0057" num="0060">Suitable adenosine receptor agonists can be selected from: N<sup>6</sup>-cyclopentyladenosine (CPA), N-ethylcarboxamido adenosine (NECA), 2[p-(2-carboxyethyl)phenethyl-amino-5&#x2032;-N-ethylcarboxamido adenosine (CGS-21680), 2-chloroadenosine, N<sup>6</sup>-[2-(3,5-demethoxyphenyl)-2-(2-methoxyphenyl]ethyladenosine, 2-chloro-N<sup>6</sup>-cyclopentyladenosine (CCPA), N-(4-aminobenzyl)-9-[5-(methylcarbonyl)-beta-D-robofuranosyl]-adenine (AB-MECA), ([IS-[1a,2b,3b,4a(S*)]]-4-[7-[[2-(3-chloro-2-thienyl)-1-methyl-propyl]amino]-3H-imidazole[4,5-b]pyridyl-3-yl]cyclopentane carboxamide (AMP579), N<sup>6</sup>-(R)-phenylisopropyladenosine (R-PLA), aminophenylethyladenosine 9APNEA) and_clohexyladenosine (CHA). Others include full adenosine A1 receptor agonists such as N-[3-(R)-tetrahydrofuranyl]-6-aminopurine riboside (CVT-510), or partial agonists such as CVT-2759 and allosteric enhancers such as PD81723. Other agonists include N6-cyclopentyl-2-(3-phenylaminocarbonyltriazene-1-yl)adenosine (TCPA), a very selective agonist with high affinity for the human adenosine A1 receptor, and allosteric enhancers of A1 adenosine receptor includes the 2-amino-3-naphthoylthiophenes. CCPA is a particularly preferred adenosine receptor agonist. CCPA an A1 adenosine receptor agonist.</p>
+    <p id="p-0058" num="0061">Thus, in another aspect, the invention provides a composition for preconditioning, protecting and/or reducing damage to a tissue during ischemia or reperfusion comprising an effective amount of:
+      <ul id="ul0005" list-style="none">
+        <li id="ul0005-0001" num="0000">
+          <ul id="ul0006" list-style="none">
+            <li id="ul0006-0001" num="0062">potassium channel opener or adenosine receptor agonist;</li>
+            <li id="ul0006-0002" num="0063">local anaesthetic; and</li>
+            <li id="ul0006-0003" num="0064">CPA.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0059" num="0065">Opioids, also known or referred to as opioid agonists, are a group of drugs that inhibit opium (Gr opion, poppy juice) or morphine-like properties and are generally used clinically as moderate to strong analgesics, in particular, to manage pain, both peri- and post-operatively. Other pharmacological effects of opioids include drowsiness, respiratory depression, changes in mood and mental clouding without loss of consciousness. Opioids are also believed to be involved as part of the &#x2018;trigger&#x2019; in the process of hibernation, a form of dormancy characterised by a fall in normal metabolic rate and normal core body temperature. In this hibernating state, tissues are better preserved against damage that may otherwise be caused by diminished oxygen or metabolic fuel supply, and also protected from ischemia reperfusion injury. There are three types of opioid peptides: enkephalin, endorphin and dynorphin.</p>
+    <p id="p-0060" num="0066">Opioids act as agonists, Interacting with stereospecific and saturable binding sites, in the heart, brain and other tissues. Three main opioid receptors have been identified and cloned, namely mu, kappa, and delta receptors. All three receptors have consequently been classed in the G-protein coupled receptors family (which class includes adenosine and bradykinin receptors). Opioid receptors are further subtyped, for example, the delta receptor has two subtypes, delta-1 and delta-2.</p>
+    <p id="p-0061" num="0067">Cardiovascular effects of opioids are directed within the intact body both centrally (ie, at the cardiovascular and respiratory centres of the hypothalamus and brainstem) and peripherally (ie, heart myocytes and both direct and indirect effects on the vasculature). For example, opioids have been shown to be involved in vasodilation. Some, of the action of opioids on the heart and cardiovascular system may involve direct opioid receptor mediated actions or indirect, dose dependent non-opioid receptor mediated actions, such as ion channel blockade which has been observed with antiarrhythmic actions of opioids, such as arylacetamide drugs. It is also known that the heart is capable of synthesising or producing the three types of opioid peptides, namely, enkephalin, endorphin and dynorphin. However, only the delta and kappa opioid receptors have been identified on ventricular myocytes.</p>
+    <p id="p-0062" num="0068">Without being bound by any mode of action, opioids are considered to provide cardioprotective effects, by limiting ischaemic damage and reducing the incidence of arrhythmias, which are produced to counter-act high levels of damaging agents or compounds naturally released during ischemia. This may be mediated via the activation of ATP sensitive potassium channels in the sarcolemma and in the mitochondrial membrane and involved in the opening potassium channels. Further, it is also believed that the cardioprotective effects of opioids are mediated via the activation of ATP sensitive potassium channels In the sarcolemma and in the mitochondrial membrane. Thus it is believed that the opioid can be used in stead or in combination with the potassium channel opener or adenosine receptor agonist as they are also involved in indirectly opening potassium channels.</p>
+    <p id="p-0063" num="0069">It will be appreciated that the opioids include compounds which act both directly and indirectly on opioid receptors. Opioids also include indirect dose dependent, non-opioid receptor mediated actions such as ion channel blockade which have been observed with the antiarrhythmic actions of opioids.</p>
+    <p id="p-0064" num="0070">Thus, in another aspect of the invention there is provided a composition for preconditioning, protecting and/or reducing damage to an organ, tissue or cell during ischemia and/or reperfusion comprising delivery of an effective amount of:
+      <ul id="ul0007" list-style="none">
+        <li id="ul0007-0001" num="0000">
+          <ul id="ul0008" list-style="none">
+            <li id="ul0008-0001" num="0071">an opioid; and</li>
+            <li id="ul0008-0002" num="0072">a local anaesthetic.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0065" num="0073">According to this aspect of the invention there is also provided a composition including an effective amount of opioid and a local anaesthetic. Preferably the opioid is selected from enkephalins, endorphins and dynorphins. Preferably, the opioid is an enkephalin which targets delta, kappa and/or mu receptors. More preferably the opioid is selected from delta-1-opioid receptor agonists and delta-2-opioid receptor agonists. D-Pen2, 5]enkephalin (DPDPE) is a particularly preferred Delta-1-Opioid receptor agonist.</p>
+    <p id="p-0066" num="0074">In another embodiment of the present invention there is provided a composition according to the present invention, further including an effective amount of an antioxidant. Antioxidants are commonly enzymes or other organic substances that are capable of counteracting the damaging effects of oxidation in the tissue. The antioxidant component of the composition according to the present invention may be selected from one or more of the group consisting of: allopurinol, carnosine, histidine, Coenzyme Q 10, n-acetyl-cysteine, superoxide dismutase (SOD), glutathione reductase (GR), glutathione peroxidase (GP) modulators and regulators, catalase and the other metalloenzymes, NADPH and AND(P)H oxidase inhibitors, glutathione, U-74006F, vitamin E, Trolox (soluble form of vitamin E), other tocopherols (gamma and alpha, beta, delta), tocotrienols, ascorbic acid, Vitamin C, Beta-Carotene (plant form of vitamin A), selenium, Gamma Linoleic Acid (GLA), alpha-lipoic acid, uric acid (urate), curcumin, bilirubin, proanthocyanidins, epigallocatechin gallate, Lutein, lycopene, bioflavonoids, polyphenols, trolox(R), dimethyithiourea, tempol(R), carotenoids, coenzyme Q, melatonin, flavonoids, polyphenols, aminoindoles, probucol and nitecapone, 21-aminosteroids or lazaroids, sulphydryl-containing compounds (thiazolidine, Ebselen, dithiolethiones), and N-acetylcysteine. Other antioxidants include the ACE inhibitors (captopril, enalapril, lisinopril) which are used for the treatment of arterial hypertension and cardiac failure on patients with myocardial infarction. ACE inhibitors exert their beneficial effects on the reoxygenated myocardium by scavenging reactive oxygen species. Other antioxidants that could also be used include beta-mercaptopropionylglycine, 0-phenanthroline, dithiocarbamate, selegilize and desferrioxamine (Desferal), an iron chelator, has been used in experimental infarction models, where it exerted some level of antioxidant protection. Spin trapping agents such as 5&#x2032;-5-dimethyl-1-pyrrolione-N-oxide (DMPO) and (a-4-pyridyl-1-oxide)-N-t-butylnitrone (POBN) also act as antioxidants. Other antioxidants include: nitrone radical scavenger alpha-phenyl-tert-N-butyl nitrone (PBN) and derivatives PBN (including disulphur derivatives); N-2-mercaptopropionyl glycine (MPG) a specific scavenger of the OH free radical; lipooxygenase inhibitor nordihydroguaretic acid (NDGA); Alpha Lipoic Acid; Chondroitin Sulfate; L-Cysteine; oxypurinol and Zinc.</p>
+    <p id="p-0067" num="0075">Preferably, the antioxidant is allopurinol (1H-Pyrazolo[3,4-&#x3b1;]pyrimidine-4-ol). Allopurinol is a competitive inhibitor of the reactive oxygen species generating enzyme xanthine oxidase. Allopurinol's antioxidative properties may help preserve myocardial and endothelial functions by reducing oxidative stress, mitochondrial damage, apoptosis and cell death. In addition, protease inhibitors attenuate the systemic inflammatory response in patients undergoing cardiac surgery with cardiopulmonary bypass, and other patients where the inflammatory response has been heightened such as AIDS or in the treatment of chronic tendon injuries. Some broad spectrum protease inhibitors such as aprotinin also reduce blood loss and need for blood transfusions in surgical operations such as coronary bypass.</p>
+    <p id="p-0068" num="0076">In another embodiment of the present invention there is provided a composition according to the present invention, further including an effective amount of a sodium hydrogen exchange inhibitor. The sodium hydrogen exchange inhibitor reduces sodium and calcium entering the cell. The sodium hydrogen exchange inhibitor may be selected from one or more of the group consisting of amiloride, cariporide, eniporide, triamterene and EMD 84021, EMD 94309, EMD 96785 and HOE 642 and T-162559 (inhibitors of the isoform 1 of the Na<sup>+</sup>/H<sup>+</sup> exchanger). Preferably, the sodium hydrogen exchange inhibitor is amiloride. Amiloride inhibits the sodium proton exchanger (Na<sup>+</sup>/H<sup>+</sup> exchanger, also often abbreviated NHE-1) and reduces calcium entering the cell.</p>
+    <p id="p-0069" num="0077">During ischaemia excess cell protons (or hydrogen ions) are exchanged for sodium via the Na<sup>+</sup>/H<sup>+</sup> exchanger.</p>
+    <p id="p-0070" num="0078">Accordingly another aspect of the invention provides a composition for preconditioning, protecting and/or reducing damage to a tissue during ischemia or reperfusion comprising delivery of an effective amount of:
+      <ul id="ul0009" list-style="none">
+        <li id="ul0009-0001" num="0000">
+          <ul id="ul0010" list-style="none">
+            <li id="ul0010-0001" num="0079">a Na<sup>+</sup>/H<sup>+</sup> exchange inhibitor; and</li>
+            <li id="ul0010-0002" num="0080">a local anaesthetic.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0071" num="0081">Preferably the Na<sup>+</sup>/H<sup>+</sup> exchange inhibitor is Amiloride.</p>
+    <p id="p-0072" num="0082">In yet another embodiment of the present invention there is provided a composition according to the present invention, further including an effective amount of a source of magnesium in an amount for increasing the amount of magnesium in a cell in the tissue; and/or a source of calcium in an amount for increasing the amount of calcium in a cell in the tissue.</p>
+    <p id="p-0073" num="0083">Elevated magnesium and low calcium has been associated with protection during ischaemia and reoxygenation of the organ. The action is believed due to decreased calcium loading. Preferably the magnesium is present at a concentration of between 0.5 mM to 20 mM, more preferably about 2.5 mM. Preferably the calcium present is at a concentration of between 0.1 mM to 2.5 mM, more preferably about 0.3 mM. In another aspect there is also provided a composition according to the invention further including an effective amount of elevated magnesium.</p>
+    <p id="p-0074" num="0084">The composition according to the invention may also include an impermeant or a compound for minimizing or reducing the uptake of water by a cell in a tissue. Compounds for minimizing or reducing the uptake of water by a cell in a tissue are typically impermeants or receptor antagonists or agonists. A compound for minimizing or reducing the uptake of water by a cell in the tissue tends to control water shifts, ie, the shift of water between the extracellular and intracellular environments. Accordingly, these compounds are involved in the control or regulation of osmosis. One consequence is that a compound for minimizing or reducing the uptake of water by a cell in the tissue reduces cell swelling that is associated with Oedema, such as Oedema that can occur during ischemic injury.</p>
+    <p id="p-0075" num="0085">An impermeant according to the present invention may be selected from one or more of the group consisting of: sucrose, pentastarch, hydroxyethyl starch, raffinose, mannitol, gluconate, lactobionate, and colloids. Colloids include albumin, hetastarch, polyethylene glycol (PEG), Dextran 40 and Dextran 60. Other compounds that could be selected for osmotic purposes include those from the major classes of osmolytes found in the animal kingdom including polyhydric alcohols (polyols) and sugars, other amino acids and amino-acid derivatives, and methylated ammonium and sulfonium compounds.</p>
+    <p id="p-0076" num="0086">Cell swelling can also result from an inflammatory response which may be important during organ retrieval, preservation and surgical grafting. Substance P, an important pro-inflammatory neuropeptide is known to lead to cell oedema and therefore antagonists of substance P may reduce cell swelling. Indeed antagonists of substance P, (-specific neurokinin-1) receptor (NK-1) have been shown to reduce inflammatory liver damage, i.e., oedema formation, neutrophil infiltration, hepatocyte apoptosis, and necrosis. Two such NK-1 antagonists include CP-96,345 or [(2S,3S)-cis-2-(diphenylmethyl)-N-((2-methoxyphenyl)-methyl)-1-azabicyclo(2.2.2.)-octan-3-amine (CP-96,345)] and L-733,060 or [(2S,3-([3,5-bis(trifluoromethyl)phenyl]methoxy)-2-phenylpiperidine]. R116301 or [(2R-trans)-4-[1-[3,5-bis(trifluoromethyl)benzoyl]-2-(phenylmethyl)-4-piperidinyl]-N-(2,6-dimethylphenyl)-1-acetamide (S)-Hydroxybutanedioate] is another specific, active neurokinin-1 (NK(1)) receptor antagonist with subnanomolar affinity for the human NK(1) receptor (K(i): 0.45 nM) and over 200-fold selectivity toward NK(2) and NK(3) receptors. Antagonists of neurokinin receptors 2 (NK-2) that may also reduce cell swelling include SR48968 and NK-3 include SR142801 and SB-222200. Blockade of mitochondrial permeability transition and reducing the membrane potential of the inner mitochondrial membrane potential using cyclosporin A has also been shown to decrease ischemia-induced cell swelling in Isolated brain slices. In addition glutamate-receptor antagonists (AP5/CNQX) and reactive oxygen species scavengers (ascorbate, Trolox(R), dimethylthiourea, tempol(R)) also showed reduction of cell swelling. Thus, the compound for minimizing or reducing the uptake of water by a cell in a tissue can also be selected from any one of these compounds.</p>
+    <p id="p-0077" num="0087">It will also be appreciated that the following energy substrates can also act as impermeants. Suitable energy substrate can be selected from one or more from the group consisting of: glucose and other sugars, pyruvate, lactate, glutamate, glutamine, aspartate, arginine, ectoine, taurine, N-acetyl-beta-lysine, alanine, proline and other amino acids and amino acid derivatives, trehalose, floridoside, glycerol and other polyhydric alcohols (polyols), sorbitol, myo-innositol, pinitol, insulin, alpha-keto glutarate, malate, succinate, triglycerides and derivatives, fatty acids and carnitine and derivatives.</p>
+    <p id="p-0078" num="0088">Preferably the compound for minimizing or reducing the uptake of water by the cells in the tissue is sucrose. Sucrose reduces water shifts as an impermeant. Impermeant agents such as sucrose, lactobionate and raffinose are too large to enter the cells and hence remain in the extracellular spaces within the tissue and resulting osmotic forces prevent cell swelling that would otherwise damage the tissue, which would occur particularly during storage of the tissue.</p>
+    <p id="p-0079" num="0089">Preferably, the concentration of the compound for minimizing or reducing the uptake of water by the cells in the tissue is between about 5 to 500 mM. Typically this is an effective amount for reducing the uptake of water by the cells in the tissue. More preferably, the concentration of the compound for reducing the uptake of water by the cells in the tissue is between about 20 and 100 mM. Even more preferably the concentration of the compound for reducing the uptake of water by the cells in the tissue is about 70 mM.</p>
+    <p id="p-0080" num="0090">In another preferred embodiment of the present invention, there is provided a composition according to the present invention including an effective amount of:
+      <ul id="ul0011" list-style="none">
+        <li id="ul0011-0001" num="0000">
+          <ul id="ul0012" list-style="none">
+            <li id="ul0012-0001" num="0091">a potassium channel opener and/or adenosine receptor agonist; and</li>
+            <li id="ul0012-0002" num="0092">a local anaesthetic,
+              <br/>
+              and further including an effective amount of one or more components selected from:
+            </li>
+            <li id="ul0012-0003" num="0093">diazoxide;</li>
+            <li id="ul0012-0004" num="0094">an opioid;</li>
+            <li id="ul0012-0005" num="0095">an antioxidant;</li>
+            <li id="ul0012-0006" num="0096">an anti-adrenergic;</li>
+            <li id="ul0012-0007" num="0097">a sodium hydrogen exchange inhibitor;</li>
+            <li id="ul0012-0008" num="0098">a calcium channel blocker;</li>
+            <li id="ul0012-0009" num="0099">a source of magnesium; and</li>
+            <li id="ul0012-0010" num="0100">a source of calcium.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0081" num="0101">The composition of the present invention is particularly useful in preconditioning, arresting, protecting and/or preserving the heart during open-heart surgery including heart transplants. Other applications include reducing heart damage before, during or following cardiovascular intervention which may include a heart attack, &#x201c;beating heart&#x201d; surgery, angioplasty or angiography. For example, the composition may be administered to subjects who have suffered or are developing a heart attack and used at the time of administration of blood clot-busting drugs such as streptokinase. As the clot is dissolved, the presence of the composition protects the heart from further injury, such as reperfusion injury.</p>
+    <p id="p-0082" num="0102">The composition is particularly effective as a protectant in those portions of an organ, such as the heart, that have been starved of normal flow, nutrients and/or oxygen for different periods of time. For example, the composition may be used to treat ischaemia which could be pre-existing or induced by medical intervention.</p>
+    <p id="p-0083" num="0103">In a preferred embodiment the composition according to the present invention is a cardioplegic and/or cardioprotectant composition.</p>
+    <p id="p-0084" num="0104">According to another aspect of the present invention there is provided use of the composition according to the present invention in the manufacture of a medicament for preconditioning, protecting and/or preserving an organ.</p>
+    <p id="p-0085" num="0105">In a preferred embodiment of this aspect of the present invention, it is preferred to aerate the composition with a source of oxygen before and/or during use. The source of oxygen may be an oxygen gas mixture where oxygen is the predominant component. The oxygen may be mixed with, for example CO<sub>2</sub>. Preferably, the oxygen gas mixture is 95% O<sub>2 </sub>and 5% CO<sub>2</sub>. It is considered that the oxygenation with the oxygen gas mixture maintains mitochondrial oxidation and this helps preserve the myocyte and endothelium of the tissue.</p>
+    <p id="p-0086" num="0106">It will be appreciated that the amounts of active ingredients present in the composition will depend on the nature of the subject, the type of organ being arrested, protected and/or preserved and the proposed application. In the case of a human subject requiring heart arrest during open-heart surgery, the concentration of adenosine is preferably about 0.001 to about 2 mM, more preferably about 0.01 to about 10 mM, most preferably about 0.05 to about 5 mM and the concentration of lignocaine is preferably about 0.001 to about 2 mM, more preferably about 0.01 to about 10 mM, most preferably about 0.05 to about 5 mM.</p>
+    <p id="p-0087" num="0107">For preconditioning, arresting, maintaining, reanimating or perfusing an organ, the form of the composition suitable for bathing the organ has a range of concentrations of adenosine from 0.001 mmols per litre to 0.10 mmols per litre for the maintenance and recovery phases, and from 0.10 to 10 mmols per litre for arresting a heart or other organ. As mentioned above, the concentration of lignocaine is often at a similar level, but both the absolute and relative amounts may vary. A ratio of adenosine:lignocaine of 1:3 is suitable for at least the maintenance and recovery phases. The composition may be delivered through one or more of a number of routes including intravenous, arterial, intraperitoneal, intracoronary (antegrade or retrograde), epidural and intra-brain routes. They could be administered either as a crystalloid alone or through various dilutions with a carrier such as blood ranging from 1:1 (1 blood:1 crystalloid dilutions), 1:4 (1 blood:4 crystalloid dilutions) to 64:1 (64 blood:1 crystalloid dilutions) or higher blood proportions.</p>
+    <p id="p-0088" num="0108">The compositions are usually delivered at various flow rates. During the arrest phase, suitable flow rates are 100 to 1000 ml/min, preferably 200 to 300 ml/min and more preferably about 350 ml/min. During the maintenance and recovery phases, suitable flow rates are 100 to 1000 ml/min, preferably 200-300 ml/min, for retrograde delivery and 10 to 200 ml/min, preferably 50 to 100ml/min, for antegrade delivery. The skilled person can adjust concentrations and flow rates to deliver the optimum amount of active (adenosine, lignocaine, etc.) to the organ as required.</p>
+    <p id="p-0089" num="0109">In another preferred embodiment, the composition is mixed with a physiological carrier or crystalloid, such as Plasmalyte&#x2122; or Normosol&#x2122;. In one preferred embodiment, where the procedure involves extra corporeal bypass, an additive cassette is added to the reperfusion solution comprising 4 mls of adenosine (being 12 mg at 3 mg per ml), 10 mls of magnesium sulphate (being about 5 g) and upon recovery 25 mg of lignocaine is added.</p>
+    <p id="p-0090" num="0110">A preferred pharmaceutically acceptable carrier is a buffer having a pH of about 6 to about 9, preferably about 7, more preferably about 7.4 and/or low concentrations of potassium, for example, up to about 10 mM, more preferably about 2 to about 8 mM, most preferably about 4 to about 6 mM. Suitable buffers include Krebs-Henseleit which generally contains 10 mM glucose, 117 mM NaCl, 5.9 mM KCl, 25 mM NaHCO<sub>3</sub>, 1.2 mM NaH<sub>2 </sub>PO<sub>4</sub>, 1.12 mMCaCl<sub>2 </sub>(free Ca<sup>2</sup>+=1.07 mM) and 0.512 mM MgCl<sub>2 </sub>(free Mg<sup>2</sup>+=0.5 mM), St. Thomas No. 2 solution, Tyrodes solution which generally contains 10 mM glucose, 126 mM NaCl, 5.4 mM KCl, 1 mM CaCl<sub>2</sub>, 1 mM MgCl<sub>2</sub>, 0.33 mM NaH<sub>2 </sub>PO<sub>4 </sub>and 10 mM HEPES (N-[2-hydroxyethyl]piperazine-N&#x2032;-[2-ethane sulphonic acid], Fremes solution, Hartmanns solution which generally contains 129 NaCl, 5 mM KCl, 2 mM CaCl<sub>2 </sub>and 29 mM lactate and Ringers-Lactate. One advantage of using low potassium is that it renders the present composition less injurious to the subject, in particular paediatric subjects such as neonates/infants. High potassium has been linked to an accumulation of calcium which may be associated with irregular heart beats during recovery, heart damage and cell swelling. Neonates/infants are even more susceptible than adults to high potassium damage during cardiac arrest. After surgery for defects a neonate/infant's heart may not return to normal for many days, sometimes requiring intensive therapy or life support. It is also advantageous to use carriers having low concentrations of magnesium, such as, for example up to about 2.5 mM, but it will be appreciated that higher concentrations of magnesium, for example up to about 20 mM, can be used if desired without substantially effecting the activity of the composition.</p>
+    <p id="p-0091" num="0111">In a further preferred embodiment the present invention provides a pharmaceutical or veterinary composition which includes adenosine, lignocaine and a pharmaceutically acceptable carrier which contains less than about 10 mM potassium.</p>
+    <p id="p-0092" num="0112">The composition may also advantageously be presented in the form of a kit in which the active ingredients are held separately for separate, sequential or simultaneous administration.</p>
+    <p id="p-0093" num="0113">It will be appreciated that the composition of the present invention may also include and/or be used in combination with known medicaments depending on the proposed application. For instance, medicaments which substantially prevent the breakdown of adenosine in the blood such as nucleoside transport inhibitors, for example, dipyridamole could be used as additives in the composition of the present invention. The half life of adenosine in the blood is about 10 seconds so the presence of a medicament to substantially prevent its breakdown will maximise the effect of the composition of the present invention. Dipyridamole could advantageously be included in concentrations from about 0.1 nM to about 10 mM and has major advantages with respect to cardioprotection. Dipyridamole may supplement the actions of adenosine by inhibiting adenosine transport which increases vasodilation. This could be particularly important when the composition is administered intermittently.</p>
+    <p id="p-0094" num="0114">The present invention also extends to a pharmaceutical or veterinary composition which includes the active ingredients and a pharmaceutically or veterinarily acceptable carrier, diluent, adjuvant and/or excipient.</p>
+    <p id="p-0095" num="0115">This composition is ideally used with 100% miniplegia (or microplegia). Preferably, the perfusion method used follows a strict regimen of warm and cold cardioplegia delivery, and does not follow conventional myocardial protection dogma regarding time and volume constraints (that is; you may give as much volume as often as you want).</p>
+    <p id="p-0096" num="0116">Surprisingly, an additional benefit of this method is improved urine production post-operatively by patients without the use of diuretics. Typically, diuretics are added to the patient's blood while they are supported by a heart-lung machine but it has been found that patients have less or no need for diuretics with the method of the invention. Similarly, it has been observed that patients' lucidity returns post-operatively more quickly with the method of the invention. Fewer days in an intensive care unit are also required&#x2014;this is evidenced by the results of the example given below.</p>
+    <p id="p-0097" num="0117">To illustrate the invention by way of example only, the following protocol was performed. This protocol utilises miniplegia as described above, where micro amounts are titrated directly onto the heart, using the patient's own oxygenated blood. The reference to a &#x201c;setting&#x201d; is a measure on the pump, such as a syringe pump, of the amount of substance being delivered directly to the organ, in this example a heart.</p>
+    <p id="p-0098" num="0118">Two cassettes were prepared as follows.</p>
+    <p id="p-0099" num="0119">(1) The Arrest Cassette:
+      <ul id="ul0013" list-style="none">
+        <li id="ul0013-0001" num="0000">
+          <ul id="ul0014" list-style="none">
+            <li id="ul0014-0001" num="0120">1. 40 mls of undiluted Potassium having 80 mEq&#x2014;thus, 2 mEq/ml</li>
+            <li id="ul0014-0002" num="0121">2. High Setting: 25 mEq's per litre</li>
+            <li id="ul0014-0003" num="0122">3. Low Setting: 10 mEq's per litre</li>
+            <li id="ul0014-0004" num="0123">The potassium in item 1 above was the primary cardioplegic agent. High potassium is the most well known and used cardioplegic, despite its known disadvantages and deleterious side-effects. An alternative cardioplegic is disclosed in WO 00/56145 (GP Dobson) comprising a potassium channel opener/agonist and/or an adenosine receiptor agonist (eg. adenosine) together with a local anaesthetic (eg. lignocaine) in mM amounts. The contents of this specification are incorporated herein by reference in entirety. Although not exemplified here, the high potassium cardioplegic of item 1 above could be replaced by such a cardioplegic.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0100" num="0124">(2) The Additive Cassette:
+      <ul id="ul0015" list-style="none">
+        <li id="ul0015-0001" num="0000">
+          <ul id="ul0016" list-style="none">
+            <li id="ul0016-0001" num="0125">1. 4 ml Adenosine having 12 mg&#x2014;thus, 3 mg/ml</li>
+            <li id="ul0016-0002" num="0126">2. 10 mls Magnesium Sulfate=5 g (or a vial of MgSO<sub>4 </sub>to equal 5 g)</li>
+            <li id="ul0016-0003" num="0127">3. 30 mls&#x2014;whatever crystalloid prime is in a pump can be used (e.g. L/R, Plasmalyte&#x2122;, Normosol&#x2122;)</li>
+            <li id="ul0016-0004" num="0128">4. Total Volume in Additive Cassette: 44 mls</li>
+            <li id="ul0016-0005" num="0129">5. Additive Setting: 10 mls per litre</li>
+            <li id="ul0016-0006" num="0130">This cassette is suitable for machines which support 50 ml cassettes.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0101" num="0131">Lignocaine is added to this cassette as described below to deliver the improved results. Lignocaine is added at a concentration of 0.1 to 10 times that of adenosine, preferably 0.5 to 2 times.</p>
+    <p id="p-0102" num="0132">The data below is from experiments where no lignocaine was not added to this cassette until the recovery phase shortly before cross-clamp removal. However, in another embodiment of the invention, lignocaine is added to this cassette from its first use so that a combination of adenosine and lignocaine is administered during the maintenance or quiescent phase of a procedure. It is found that this further improves the prospects of heart recovery and/or reduced post-operative complications.</p>
+    <p id="p-0103" num="0133">The procedure used to administer the composition in this example was as follows, with an overall objective of creating aerobic arrest, not ischemic arrest.
+      <ul id="ul0017" list-style="none">
+        <li id="ul0017-0001" num="0000">
+          <ul id="ul0018" list-style="none">
+            <li id="ul0018-0001" num="0134">1. Upon heparinization, fill the ice reservoir to the top with ice. Reservoir need not be filled again unless x-clamp time exceeds 3 hours. Delivery temp will be about 12&#xb0; C. Towards the last third of the x-clamp period, some metabolism of oxygen rich blood should occur.</li>
+            <li id="ul0018-0002" num="0135">2. Temperature setting is for warm induction: Warm (37&#xb0; C.)</li>
+            <li id="ul0018-0003" num="0136">3. High setting for arrest: 25 mEq/litre of the hyperkalemic Arrest cassette induces a rapid arrest</li>
+            <li id="ul0018-0004" num="0137">4. Setting for Additive: 10 ml/litre before cross-clamp</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0104" num="0138">Upon Application of Cross-Clamp:
+      <ul id="ul0019" list-style="none">
+        <li id="ul0019-0001" num="0000">
+          <ul id="ul0020" list-style="none">
+            <li id="ul0020-0001" num="0139">1. Increase flow for antegrade quickly to 500 mls then immediately back down to 320 to 350 mls/min so as to ensure closure of the aortic valve.</li>
+            <li id="ul0020-0002" num="0140">2. Give 700 mls warm antegrade. Once quiescence achieved, give 300 mls more and then switch to low K+ setting (ie 10 ml/litre).</li>
+            <li id="ul0020-0003" num="0141">3. Give 700 mls warm retrograde.</li>
+            <li id="ul0020-0004" num="0142">4. Switch water temp to cold. Administer cold retrograde, for as long as possible. Lower arrest setting empirically the longer flow continues.</li>
+            <li id="ul0020-0005" num="0143">5. Lower additive setting to 2 ml/litre. Most preparation of the heart has occurred.</li>
+            <li id="ul0020-0006" num="0144">6. If you are doing a CABG and distals are performed first: after the first graft, hook up the graft to the pump via multi-catheter lines. The flow is then increased very slowly to achieve a pressure of 150 Torr and the flow is noted, which is useful information for the surgeon. This will accomplish several things:
+              <ul id="ul0021" list-style="none">
+                <li id="ul0021-0001" num="0145">controlled mechanical device to determine patency of the graft utilizing the gold standard of pressure to flow ratio;</li>
+                <li id="ul0021-0002" num="0146">surgeon has a means to check hemostasis of the anastomotic site; and</li>
+                <li id="ul0021-0003" num="0147">capability to deliver antegrade to the target site and retrograde simultaneously if desired.</li>
+              </ul>
+            </li>
+            <li id="ul0020-0007" num="0148">7. If the procedure involves work on a valve and coronaries, perform the coronaries first. This way a sick heart is provided with the nutrients it needs while the valve is being worked on.</li>
+            <li id="ul0020-0008" num="0149">8. Monitor K+ according to usual SOP and adjust potassium concentration to meet desired level.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0105" num="0150">When approaching the last 10 minutes of x-clamp, preparations are made for the warm shot. These include:
+      <ul id="ul0022" list-style="none">
+        <li id="ul0022-0001" num="0000">
+          <ul id="ul0023" list-style="none">
+            <li id="ul0023-0001" num="0151">1. Water setting: Warm (37 degrees)</li>
+            <li id="ul0023-0002" num="0152">2. Arrest setting: 0&#x2014;to wash out the K+ and other metabolites</li>
+            <li id="ul0023-0003" num="0153">3. 25 mg. Lignocaine is injected into Additive bag (in this embodiment being described, it has not been added earlier) to accomplish target delivery of the prophylactic antiarrhythmic composition&#x2014;typically there is about 18-35 ml left in the Additive bag at this point depending on the length of time for the procedure, which provides a lignocaine concentration of about 1 mg/ml.</li>
+            <li id="ul0023-0004" num="0154">4. Additive setting: 15 to 18&#x2014;the goal is to empty the Additive bag prior to removal of cross-clamp.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0106" num="0155">For warm shot: usually started 5 to 10 minutes prior to x-clamp removal
+      <ul id="ul0024" list-style="none">
+        <li id="ul0024-0001" num="0000">
+          <ul id="ul0025" list-style="none">
+            <li id="ul0025-0001" num="0156">1. Start retrograde warm. Zero potassium, additive setting at 15. Make sure retrograde pressure is maintained at highest level (35 to 40 Torr)</li>
+            <li id="ul0025-0002" num="0157">2. When electrical activity begins, continue retrograde for another minute.</li>
+            <li id="ul0025-0003" num="0158">3. Switch to antegrade for 2 to 3 minutes (when not obscuring surgeons' vision). This will facilitate de-airing grafts, allowing the right side of the heart to be perfused and, usually, will achieve a stable heart rate.</li>
+            <li id="ul0025-0004" num="0159">4. Switch back to retrograde for duration of x-clamp.</li>
+            <li id="ul0025-0005" num="0160">5. If additive setting runs out, continue with pure warm blood through x-clamp removal.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0107" num="0161">With microplegic techniques, the more volume you give, the better the heart likes it as it is aerobic arrest. In many instances, if administered properly, the oxygen supply/demand ratio is reversed. Administration of over 1 and up to 6 litres is associated with the greatest reduction in post-operative fibrillation.</p>
+    <p id="p-0108" num="0162">The clinical results attained with warm blood cardioplegia have suggested that earlier observations on impairment of some cell functions by hypothermia may be more relevant than previously thought. These include reduced:
+      <ul id="ul0026" list-style="none">
+        <li id="ul0026-0001" num="0000">
+          <ul id="ul0027" list-style="none">
+            <li id="ul0027-0001" num="0163">1. Membrane stability</li>
+            <li id="ul0027-0002" num="0164">2. Ability to utilize glucose and fatty acids</li>
+            <li id="ul0027-0003" num="0165">3. Mitochondrial generation of adenosine tri-phosphate leading to depressed Cell membrane function</li>
+            <li id="ul0027-0004" num="0166">4. Activity of adenosine tri-phosphatase system, leading to impaired cell volume regulation</li>
+            <li id="ul0027-0005" num="0167">5. Decreased ability of the sarcoplasmic reticulum to bind calcium</li>
+            <li id="ul0027-0006" num="0168">6. Mitochondrial state respiration and activity of citrate synthetase</li>
+            <li id="ul0027-0007" num="0169">7. Control of intracellular pH</li>
+            <li id="ul0027-0008" num="0170">8. Activity of the sarcoplasmic reticulum with regard to calcium uptake</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p id="p-0109" num="0171">Coupling warm induction with cold maintenance and warm shot towards the end of cross clamp provides superior results. Warm induction, especially with the addition of adenosine (a very powerful vasodilator, among other functions), opens up all the collaterals and provides the necessary conduit for arrest and additives to reach the myocyte and endothelium. With cold induction comes constriction and the inability to globally distribute cardioplegia down to the myocyte and endothelium.</p>
+    <p id="p-0110" num="0172">Cold maintenance provides a reduction in metabolic uptake with the slow increase in temperature occurring during the natural course of cross clamp due to ice melting. Average temperature will drift to around 12 to 14&#xb0; C. The warm shot at the end is a most important aspect of myocardial protection. By allowing the heart to experience warm blood (32 to 37&#xb0; C.) as long as is possible, can mean the difference in regaining most of the heart's functional recovery as opposed to a flaccid, lifeless heart, requiring inotropes and electrical support. There is also evidence that subjecting a cold, flaccid, non-beating heart to the trauma of high flow warm blood, such as experienced when the cross clamp is removed, sets the heart up for sure fire reperfusion injury.</p>
+    <p id="p-0111" num="0173">Over the course of the last 30 years, surgeons and perfusionists have refined their operative techniques, allowing them to &#x201c;customize&#x201d; how they approach each patient's particular needs and demands. The only area that has essentially remained a &#x201c;cookie cutter&#x201d; approach has been myocardial protection; essentially &#x201c;one size fits all&#x201d;. Without being bound by any particular theory or mode of action, it is believed that the method of this preferred embodiment is more sensitive to not over-hemodiluting the patient and thus results in improved outcomes.</p>
+    <p id="p-0112" num="0174">In one experiment, 2688 patients undergoing cardiac surgery using cardioplegia were assessed at 6 different hospitals using different surgeons and their different techniques to assess for variability in this delicate environment. All patients were treated with a standard hyperkalemic cardioplegic solution to induce arrest. Of the patients, 1279 were in the group subjected to typical standard crystalloid-cardioplegic protocol (&#x201c;Standard&#x201d;). 1409 were subjected to a microplegia protocol (ie one using minimal amounts of cardioplegic directly administered to the heart) using the same hyperkalemic cardioplegic and with a warm ALM Additive cassette as described above, ie having a composition according to the invention. The invention is not specific or limited to this form of cardioplegia, but it forms application of the method of the invention and is discussed here to assess and illustrate the effect of the invention.</p>
+    <p id="p-0113" num="0175">The Additive cassette was used as described above, such that during the recovery phase it contained Adenosine, Lignocaine and Magnesium (hence the label &#x201c;ALM&#x201d;). The method of the invention is referred to as &#x201c;ALM&#x201d; as a convenient abbreviation only. ALM was administered at cross-clamp removal in accordance with the protocol described above.</p>
+    <p id="p-0114" num="0176">Table 1 sets out the characteristics of the 2688 patients and Table 2 sets out the occurrence of different post-operative complications measured.</p>
+    <p id="p-0115" num="0000">
+      <tables id="TABLE-US-00001" num="00001">
+        <table frame="none" colsep="0" rowsep="0">
+          <tgroup align="left" colsep="0" rowsep="0" cols="1">
+            <colspec colname="1" colwidth="217pt" align="center"/>
+            <thead>
+              <row>
+                <entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry namest="1" nameend="1" align="center" rowsep="1"/>
+              </row>
+              <row>
+                <entry>Patient Groups</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="3">
+            <colspec colname="offset" colwidth="126pt" align="left"/>
+            <colspec colname="1" colwidth="35pt" align="center"/>
+            <colspec colname="2" colwidth="56pt" align="center"/>
+            <tbody valign="top">
+              <row>
+                <entry/>
+                <entry>Standard</entry>
+                <entry>ALM</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry namest="offset" nameend="2" align="center" rowsep="1"/>
+              </row>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="4">
+            <colspec colname="offset" colwidth="14pt" align="left"/>
+            <colspec colname="1" colwidth="112pt" align="left"/>
+            <colspec colname="2" colwidth="35pt" align="center"/>
+            <colspec colname="3" colwidth="56pt" align="center"/>
+            <tbody valign="top">
+              <row>
+                <entry/>
+                <entry>Number of Patients</entry>
+                <entry>1279&#x2003;</entry>
+                <entry>1409&#x2003;</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Age (Years)</entry>
+                <entry>62 &#xb1; 10</entry>
+                <entry>65.7 &#xb1; 10&#x2009;</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Weight (kg)</entry>
+                <entry>89 &#xb1; 16</entry>
+                <entry>79.5 &#xb1; 16&#x2009;</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Height (cm)</entry>
+                <entry>174 &#xb1; 9&#x2003;</entry>
+                <entry>168 &#xb1; 10</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Body mass index</entry>
+                <entry>30 &#xb1; 5&#x2002;</entry>
+                <entry>29 &#xb1; 5</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Male (%)</entry>
+                <entry>53</entry>
+                <entry>60</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Peripheral vascular disease (%)</entry>
+                <entry>18</entry>
+                <entry>21</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Diabetes mellitus (%)</entry>
+                <entry>36</entry>
+                <entry>35</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Emergency surgery (%)</entry>
+                <entry>&#x2002;8</entry>
+                <entry>10</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Extra corporeal bypass time (min)</entry>
+                <entry>87 &#xb1; 29</entry>
+                <entry>110 &#xb1; 37</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry namest="offset" nameend="3" align="center" rowsep="1"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </tables>
+      <br/>
+      In Table 2, the clinical outcomes are tabulated for the patients identified in Table 1. The third column represents the ALM proportion of patients as a percentage of the proportion of standard cardioplegia patients for each outcome (ie second column as a percentage of the first column). All of the outcomes in the left column are negative outcomes, and thus their minimisation is desired.
+    </p>
+    <p id="p-0116" num="0000">
+      <tables id="TABLE-US-00002" num="00002">
+        <table frame="none" colsep="0" rowsep="0">
+          <tgroup align="left" colsep="0" rowsep="0" cols="1">
+            <colspec colname="1" colwidth="217pt" align="center"/>
+            <thead>
+              <row>
+                <entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry namest="1" nameend="1" align="center" rowsep="1"/>
+              </row>
+              <row>
+                <entry>Clinical Observations</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="4">
+            <colspec colname="offset" colwidth="98pt" align="left"/>
+            <colspec colname="1" colwidth="42pt" align="center"/>
+            <colspec colname="2" colwidth="28pt" align="center"/>
+            <colspec colname="3" colwidth="49pt" align="center"/>
+            <tbody valign="top">
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>ALM as % of</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Standard</entry>
+                <entry>ALM</entry>
+                <entry>standard</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry namest="offset" nameend="3" align="center" rowsep="1"/>
+              </row>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="4">
+            <colspec colname="1" colwidth="98pt" align="left"/>
+            <colspec colname="2" colwidth="42pt" align="char" char="."/>
+            <colspec colname="3" colwidth="28pt" align="char" char="."/>
+            <colspec colname="4" colwidth="49pt" align="char" char="."/>
+            <tbody valign="top">
+              <row>
+                <entry>Intra-operative inotropes (%)</entry>
+                <entry>93%</entry>
+                <entry>13%</entry>
+                <entry>(14%)</entry>
+              </row>
+              <row>
+                <entry>Intra-operative pacing (%)</entry>
+                <entry>86%</entry>
+                <entry>33%</entry>
+                <entry>(38%)</entry>
+              </row>
+              <row>
+                <entry>Intra-operative transfusions(%)</entry>
+                <entry>43%</entry>
+                <entry>24%</entry>
+                <entry>(56%)</entry>
+              </row>
+              <row>
+                <entry>Length of Stay post-op (days)</entry>
+                <entry>7</entry>
+                <entry>6</entry>
+                <entry>(79%)</entry>
+              </row>
+              <row>
+                <entry>Post-op atrial fib. (%)</entry>
+                <entry>34%</entry>
+                <entry>3%</entry>
+                <entry>(9%)</entry>
+              </row>
+              <row>
+                <entry namest="1" nameend="4" align="center" rowsep="1"/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </tables>
+      <br/>
+      It can be seen that there was a substantial reduction in complications following the above protocol, especially in post-operative atrial fibrillation and the need for intra-operative inotropes. In particular, the reductions in these negative outcomes are: 86% reduction of intraoperative inotropes; 64% reduction in intraoperative pacing; 44% reduction in intraoperative transfusions; 21% reduction in length of stay post-operative days and 91% reduction in post-operative atrial fibrillation.
+    </p>
+    <p id="p-0117" num="0177">It will be understood that the invention disclosed and defined in this specification extends to all alternative combinations of two or more of the individual features mentioned or evident from the text or drawings. All of these different combinations constitute various alternative aspects of the invention.</p>
+    <?detailed-description description="Detailed Description" end="tail"?>
+  </description>
