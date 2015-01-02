@@ -3,8 +3,7 @@
 <xsl:stylesheet version="1.0"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<!-- Output format settings -->
-	<xsl:output method="html" encoding="UTF-8"
-		omit-xml-declaration="yes" indent="no" />
+	<xsl:output method="html" encoding="UTF-8" omit-xml-declaration="yes" indent="no" />
 	<xsl:template match="/">
 		<html>
 		<head>
@@ -27,48 +26,39 @@
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
-    </xsl:template>	
-  
-    <xsl:template match="p">
-   		
-    		<xsl:choose>
-    			<xsl:when test="./ul">
-    				<!-- P tags which contains ul tags in it -->
-   					<xsl:element name="p">	
-  						<xsl:if test="@num"><xsl:attribute name="id"><xsl:value-of select="@num" /></xsl:attribute></xsl:if>
-   	    				<xsl:element name="b"><xsl:attribute name="class">p_block</xsl:attribute>[<xsl:value-of select="@num"/>]</xsl:element>    			
-    					<xsl:value-of select="text()"/>
-    					<xsl:element name="div">
-    					<xsl:for-each select="./ul/li/ul/li">
-    						
-							<xsl:element name="b">[<xsl:value-of select="@num"/>]</xsl:element>
-	       					<xsl:value-of select="text()"/>
-	       					
-    					</xsl:for-each></xsl:element>
-    				</xsl:element>		
-    			</xsl:when>
-    			<xsl:otherwise>
-    				<!-- General p tags -->
-    				<xsl:choose>
-    					<xsl:when test="@num != '0000'">
-		    				<xsl:copy>
-		    					<xsl:attribute name="id"><xsl:value-of select="@num" /></xsl:attribute>
-		        				<xsl:element name="b"><xsl:attribute name="class">p_block</xsl:attribute>[<xsl:value-of select="@num"/>]</xsl:element>
-		            			<xsl:apply-templates select="@*|node()"/>
-		        			</xsl:copy>   					
-    					</xsl:when>
-    					<xsl:otherwise>		    				
-    						<xsl:copy>
-    							<xsl:apply-templates select="@*|node()"/>
-		        			</xsl:copy>
-    					</xsl:otherwise>
-    				</xsl:choose>
- 
-    			</xsl:otherwise>
-    		</xsl:choose>
-	
     </xsl:template>
+
+	<xsl:template match="p">
+		<xsl:copy>
+			<xsl:if test="@num != '0000'">
+				<xsl:attribute name="id"><xsl:value-of select="@num" /></xsl:attribute>
+				<xsl:element name="b">
+					<xsl:attribute name="class">p_block</xsl:attribute>
+					<xsl:text>[</xsl:text>
+					<xsl:value-of select="@num" />
+					<xsl:text>]</xsl:text>
+				</xsl:element>
+				<xsl:apply-templates select="@*|node()" />	
+			</xsl:if>
+		</xsl:copy>
+	</xsl:template>
     
+	<xsl:template name="generate.list">
+		<xsl:param name="cols" select="1" />
+		<xsl:param name="count" select="1" />
+		<xsl:choose>
+			<xsl:when test="$count>$cols"></xsl:when>
+			<xsl:otherwise>
+				<xsl:call-template name="generate.col">
+					<xsl:with-param name="countcol" select="$count" />
+				</xsl:call-template>
+				<xsl:call-template name="generate.colgroup">
+					<xsl:with-param name="cols" select="$cols" />
+					<xsl:with-param name="count" select="$count+1" />
+				</xsl:call-template>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>    
         
 	<xsl:template match="heading">
 		<xsl:variable name="level" select="@level"/>		
