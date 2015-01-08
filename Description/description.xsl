@@ -8,11 +8,13 @@
 		<html>
 		<head>
 			<style>
-			b.p_block { margin-right: 10px; }
+			b.paragraph {
+				margin-right: 10px; 
+			}
 			</style>
 		</head>
 		<body>
-		<xsl:apply-templates/>
+		<xsl:apply-templates select="//heading|//p"/>
 		</body></html>
 		
 	</xsl:template>
@@ -28,39 +30,31 @@
         </xsl:copy>
     </xsl:template>
 
-	<xsl:template match="p">
-		<xsl:copy>
+	<xsl:template match="//p"> 
+ 		<xsl:copy>
 			<xsl:if test="@num != '0000'">
-				<xsl:attribute name="id"><xsl:value-of select="@num" /></xsl:attribute>
+ 				<xsl:attribute name="id"><xsl:value-of select="@num" /></xsl:attribute>
 				<xsl:element name="b">
-					<xsl:attribute name="class">p_block</xsl:attribute>
+					<xsl:attribute name="class">paragraph</xsl:attribute>
 					<xsl:text>[</xsl:text>
 					<xsl:value-of select="@num" />
 					<xsl:text>]</xsl:text>
 				</xsl:element>
-				<xsl:apply-templates select="@*|node()" />	
-			</xsl:if>
+ 			</xsl:if>
+ 			<xsl:apply-templates select="@*|node()"/>
+<!--   			<xsl:apply-templates select="b | i | o | u | sup | sub | smallcaps | br | pre | dl | ul | ol | crossref | figref | patcit | nplcit | bio-deposit | img | chemistry | maths | tables | table-external-doc" />  -->
+<!-- 		</xsl:copy> -->
+<!-- 	</xsl:template> -->
+	
+<!-- 	<xsl:template match="ul"> -->
+<!-- 		<xsl:copy> -->
+<!-- 			<xsl:value-of select="text()"></xsl:value-of> -->
 		</xsl:copy>
-	</xsl:template>
+ 	</xsl:template>
     
-	<xsl:template name="generate.list">
-		<xsl:param name="cols" select="1" />
-		<xsl:param name="count" select="1" />
-		<xsl:choose>
-			<xsl:when test="$count>$cols"></xsl:when>
-			<xsl:otherwise>
-				<xsl:call-template name="generate.col">
-					<xsl:with-param name="countcol" select="$count" />
-				</xsl:call-template>
-				<xsl:call-template name="generate.colgroup">
-					<xsl:with-param name="cols" select="$cols" />
-					<xsl:with-param name="count" select="$count+1" />
-				</xsl:call-template>
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>    
-        
+	    
 	<xsl:template match="heading">
+		<div><center>
 		<xsl:variable name="level" select="@level"/>		
 		<xsl:element name="{concat('h',$level)}">
 			<xsl:if test="@id">
@@ -68,7 +62,7 @@
 			</xsl:if>
 			<xsl:value-of select="text()"/>
 		</xsl:element>
-
+		</center></div>
 	</xsl:template>
 
 	<!-- tables tag converting logics -->
@@ -86,7 +80,7 @@
 		</div>
 	</xsl:template>
 	<xsl:template match="tgroup">
-		<xsl:param name="default.table.width" select="'80%'" />
+		<xsl:param name="default.table.width" select="'100%'" />
 		<table>
 			<xsl:if test="../@pgwide=1">
 				<xsl:attribute name="width">100%</xsl:attribute>
