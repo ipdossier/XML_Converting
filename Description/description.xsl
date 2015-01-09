@@ -48,12 +48,7 @@
  			</xsl:if>
  			<xsl:apply-templates select="@*|node()"/>
 <!--   			<xsl:apply-templates select="b | i | o | u | sup | sub | smallcaps | br | pre | dl | ul | ol | crossref | figref | patcit | nplcit | bio-deposit | img | chemistry | maths | tables | table-external-doc" />  -->
-<!-- 		</xsl:copy> -->
-<!-- 	</xsl:template> -->
 	
-<!-- 	<xsl:template match="ul"> -->
-<!-- 		<xsl:copy> -->
-<!-- 			<xsl:value-of select="text()"></xsl:value-of> -->
 		</xsl:copy>
  	</xsl:template>
  	
@@ -63,11 +58,7 @@
 			<xsl:apply-templates/>
 		</span>
  	</xsl:template>
- 	
- 	<!-- Overscore -->
- 	<xsl:template match="o">
- 		<xsl:copy><xsl:apply-templates select="b|o|u|smallcaps|sub|sup"/></xsl:copy>
- 	</xsl:template>        
+   
 	    
 	<xsl:template match="heading">
 		<div><center>
