@@ -11,6 +11,11 @@
 			b.paragraph {
 				margin-right: 10px; 
 			}
+			.smallcaps {
+				font-variant: small-caps
+			}
+
+			
 			</style>
 		</head>
 		<body>
@@ -51,7 +56,18 @@
 <!-- 			<xsl:value-of select="text()"></xsl:value-of> -->
 		</xsl:copy>
  	</xsl:template>
-    
+ 	
+ 	<xsl:template match="smallcaps">
+		<span>
+			<xsl:attribute name="style">font-variant: small-caps;</xsl:attribute> 
+			<xsl:apply-templates/>
+		</span>
+ 	</xsl:template>
+ 	
+ 	<!-- Overscore -->
+ 	<xsl:template match="o">
+ 		<xsl:copy><xsl:apply-templates select="b|o|u|smallcaps|sub|sup"/></xsl:copy>
+ 	</xsl:template>        
 	    
 	<xsl:template match="heading">
 		<div><center>
