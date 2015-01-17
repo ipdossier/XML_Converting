@@ -15,7 +15,11 @@
 				font-variant: small-caps
 			}
 
-			
+			div.list {
+ 		   	  padding-left: 1.5em;
+    		  text-indent:-1.5em;
+			}
+
 			</style>
 		</head>
 		<body>
@@ -36,20 +40,23 @@
     </xsl:template>
 
 	<xsl:template match="//p"> 
- 		<xsl:copy>
-			<xsl:if test="@num != '0000'">
- 				<xsl:attribute name="id"><xsl:value-of select="@num" /></xsl:attribute>
-				<xsl:element name="b">
-					<xsl:attribute name="class">paragraph</xsl:attribute>
-					<xsl:text>[</xsl:text>
-					<xsl:value-of select="@num" />
-					<xsl:text>]</xsl:text>
-				</xsl:element>
- 			</xsl:if>
- 			<xsl:apply-templates select="@*|node()"/>
-<!--   			<xsl:apply-templates select="b | i | o | u | sup | sub | smallcaps | br | pre | dl | ul | ol | crossref | figref | patcit | nplcit | bio-deposit | img | chemistry | maths | tables | table-external-doc" />  -->
-	
-		</xsl:copy>
+		<div>
+	 		<xsl:copy>
+				<xsl:if test="@num != '0000'">
+	 				<xsl:attribute name="id"><xsl:value-of select="@num" /></xsl:attribute>
+					<xsl:element name="b">
+						<xsl:attribute name="class">paragraph</xsl:attribute>
+						<xsl:text>[</xsl:text>
+						<xsl:value-of select="@num" />
+						<xsl:text>]</xsl:text>
+					</xsl:element>
+	 			</xsl:if>
+	 			<xsl:apply-templates select="@*|node()"/>
+				<!--   			
+				<xsl:apply-templates select="b | i | o | u | sup | sub | smallcaps | br | pre | dl | ul | ol | crossref | figref | patcit | nplcit | bio-deposit | img | chemistry | maths | tables | table-external-doc" />  
+				-->	
+			</xsl:copy>
+		</div>
  	</xsl:template>
  	
  	<xsl:template match="smallcaps">
@@ -59,22 +66,86 @@
 		</span>
  	</xsl:template>
    
-	    
+   <!-- @TODO Need to complete -->
+   	<xsl:template match="o">
+		<span>		
+			<xsl:attribute name="style">text-decoration:overline</xsl:attribute> 
+			<xsl:apply-templates/>
+		</span>
+   	</xsl:template>
+
+	<!-- @TODO
+		Need to implement an attribute list-style, the values are dash, bullet and none
+	 -->
+	<xsl:template match="ul">
+		<div>
+			<xsl:variable name="style_value">
+				<!-- In the below style, padding-left, and text-indent will make more pretty paragraph -->
+				<xsl:text>width:100%;padding-left: 1.5em;text-indent:-1.5em;</xsl:text>
+				<xsl:if test="./li/@num != '0000'"><xsl:text>padding-left:20px</xsl:text></xsl:if>
+			</xsl:variable>
+			
+			<xsl:attribute name="style"><xsl:value-of select="$style_value"/></xsl:attribute>
+		
+			<xsl:for-each select="./li">
+				<xsl:call-template name="generate.listitem">
+					<xsl:with-param name="id"><xsl:value-of select="@num" /></xsl:with-param>
+					<xsl:with-param name="content"><xsl:value-of select="text()"></xsl:value-of></xsl:with-param>
+				</xsl:call-template>
+			</xsl:for-each>
+		</div>	
+	</xsl:template>
+	
+	<xsl:template name="generate.listitem">
+		<xsl:param name="id" select="0000"/>
+		<xsl:param name="content"/>
+		<xsl:choose>
+			<xsl:when test="$id != '0000'">
+				<p>
+					<xsl:attribute name="id"><xsl:value-of select="$id" /></xsl:attribute>
+					<xsl:element name="b">
+						<xsl:attribute name="class">paragraph</xsl:attribute>
+						<xsl:text>[</xsl:text>
+						<xsl:value-of select="@num" />
+						<xsl:text>]</xsl:text>
+					</xsl:element>
+					<xsl:apply-templates/>
+				</p>			
+	
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:apply-templates/>
+			</xsl:otherwise>
+		
+		</xsl:choose>
+
+<!-- 		<span> -->
+<!-- 			<xsl:attribute name="id"><xsl:value-of select="$id"/></xsl:attribute> -->
+<!-- 			<xsl:attribute name="class">box</xsl:attribute> -->
+<!-- 		</span> -->
+		
+		
+	</xsl:template>
+		    
 	<xsl:template match="heading">
-		<div><center>
-		<xsl:variable name="level" select="@level"/>		
-		<xsl:element name="{concat('h',$level)}">
-			<xsl:if test="@id">
-				<xsl:attribute name="id"><xsl:value-of select="@id" /></xsl:attribute>
-			</xsl:if>
-			<xsl:value-of select="text()"/>
-		</xsl:element>
-		</center></div>
+		<div>
+		<xsl:attribute name="style">text-align:center;</xsl:attribute>
+			<!-- Heading has a tree level, so I mapped these levels with h4,5,6 sequentially -->
+			<!-- for example, level 1 is h4, level 2 is h5 and so on -->
+			<xsl:variable name="level" select="@level + 2"/>		
+			<xsl:element name="{concat('h',$level)}">
+				<xsl:if test="@id">
+					<xsl:attribute name="id"><xsl:value-of select="@id" /></xsl:attribute>
+				</xsl:if>
+				<xsl:value-of select="text()"/>
+			</xsl:element>
+		</div>
 	</xsl:template>
 
 	<!-- tables tag converting logics -->
 	<xsl:template match="tables">
 		<div>
+			<xsl:attribute name="style">margin-top:20px;</xsl:attribute>
 			<xsl:if test="@id">
 				<xsl:attribute name="id"><xsl:value-of select="@id" /></xsl:attribute>
 			</xsl:if>
