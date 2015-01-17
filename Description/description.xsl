@@ -80,9 +80,18 @@
 	<xsl:template match="ul">
 		<div>
 			<xsl:variable name="style_value">
-				<!-- In the below style, padding-left, and text-indent will make more pretty paragraph -->
-				<xsl:text>width:100%;padding-left: 1.5em;text-indent:-1.5em;</xsl:text>
-				<xsl:if test="./li/@num != '0000'"><xsl:text>padding-left:20px</xsl:text></xsl:if>
+				<!-- In the below style, the attribute padding-left and text-indent will 
+					 make a more pretty paragraph -->
+				<xsl:text>text-indent:-1.5em;</xsl:text>
+				<xsl:choose>
+					<!-- list items, it need to make space on both sides, otherwise the 
+						content might cut -->
+					<xsl:when test="./li/@num != '0000'">
+						<xsl:text>padding-left:20px;padding-right:20px;</xsl:text>
+					</xsl:when>
+					<!-- an empty indented box -->
+					<xsl:otherwise><xsl:text>width:100%;padding-left:20px;</xsl:text></xsl:otherwise>
+				</xsl:choose>
 			</xsl:variable>
 			
 			<xsl:attribute name="style"><xsl:value-of select="$style_value"/></xsl:attribute>
